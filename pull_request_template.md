@@ -1,4 +1,5 @@
-Please go to the `Preview` tab and select the appropriate sub-template:
+# What are you trying to do?
+* [Fixing a bug](?expand=1&template=bug_fix_template.md)
+* [Adding a feature](?expand=1&template=add_feature_template.md)
 
-* [Group A](?expand=1&template=bug_fix_template.md)
-* [Group B](?expand=1&template=feature_add_template.md)
+Preview the appropriate selection.
