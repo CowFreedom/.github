@@ -14,11 +14,11 @@ To get an overview of the project, it is advised to read the [Readme](README.md)
 #### Create a new issue
 
 A valid and welcome contribution is creating issues. First, search if the issue you intend to report issue already exists.
-If a related issue doesn't exist, use the [issue form](https://github.com/cowfreedom/gpu_dotproduct/issues/new/choose).
+If a related issue doesn't exist, use the issue form.
 
 ### Solve an issue
 
-Wander through the [existing issues](https://github.com/cowfreedom/gpu_dotproduct/issues) to find one that interests you. If an issue has been lingering for
+Wander through the existing issues to find one that interests you. If an issue has been lingering for
 some time, it is most likely nobody has been working on it. Feel free to initiate a pull request containing your fix.
 
 ### Make Changes
